@@ -1,0 +1,49 @@
+*{
+    Padding: 0;
+    Margin:0;
+    }
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #2c2c2c;
+    
+        
+}
+
+header { 
+    background-image: url(https://img2.wallspic.com/crops/5/2/9/2/5/152925/152925-astronaut-atmosphere-space-toy-outer_space-3840x2160.png); ;
+Background-position: center center;
+padding: 40px;
+Background-size:cover; 
+Padding-top: 40px
+Max-width: 100%;
+}
+
+main {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    image-resolution: 1000px;
+}
+
+.wallpaper {
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    border: 1px solid #ddd;
+    
+}
+Header > h1 { 
+    margin: auto; 
+    Background-color: rgba(0, 0, 0, 0.596);
+    Color: White; 
+    Font-family: impact; 
+    Font-weight: lighter;
+ Width: 200px;
+ Padding: 10px;
+ border-radius: 6px;
+
+} 
+    
+ 
